@@ -3,7 +3,7 @@
 :root{
 
     --cor-de-fundo: #ebecee;
-    --branco
+    --branco:#ffffff;
 }
 body{
      background-color: var(--cor-de-fundo);
