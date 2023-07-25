@@ -2,8 +2,8 @@
 
 :root{
 
-    --cor-de-fundo: #ebecce;
-
+    --cor-de-fundo: #ebecee;
+    --branco
 }
 body{
      background-color: var(--cor-de-fundo);
